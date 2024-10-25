@@ -1,3 +1,5 @@
 # DatingApp-master
 
-.Net 6 Angular with signlaR and 
+.Net 6 
+Angular 
+signlaR 
